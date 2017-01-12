@@ -23,6 +23,8 @@
 ## Additional Resources
 * [Documentation for writing automate test scripts in Node](https://www.browserstack.com/automate/node)
 * [Customizing your tests on BrowserStack](https://www.browserstack.com/automate/capabilities)
+* [Nigthwatch samples](http://nightwatchjs.org/guide#test-settings)
+* [Nightwatch API](http://nightwatchjs.org/api)
 * [Browsers & mobile devices for selenium testing on BrowserStack](https://www.browserstack.com/list-of-browsers-and-platforms?product=automate)
-* [Using REST API to access information about your tests via the command-line interface](https://www.browserstack.com/automate/rest-api)
-* [Example to update the Browserstack session status based on the test results](https://github.com/blueimp/nightwatch-browserstack)
+* [Using Selenium and C#](http://www.hanselman.com/blog/DistributedAutomatedBrowserTestingWithSeleniumAndBrowserStack.aspx)
+* [Build desiredCapabilities config](https://www.browserstack.com/automate/nightwatch)
