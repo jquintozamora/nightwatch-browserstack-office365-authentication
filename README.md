@@ -1,5 +1,5 @@
 # nightwatch-browserstack with Office 365 Authentication
-[Nightwatch](http://nightwatchjs.org/) Integration with BrowserStack.
+[Nightwatch](http://nightwatchjs.org/) Integration with BrowserStack with Office 365 authentication based on this [BrowserStack template](https://github.com/browserstack/nightwatch-browserstack)
 
 
 ## Setup
