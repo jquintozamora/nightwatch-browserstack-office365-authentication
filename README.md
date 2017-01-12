@@ -8,7 +8,7 @@
 * Update `*.conf.js` files inside the `conf/` directory with your BrowserStack Username and Access Key(https://www.browserstack.com/accounts/settings)
 
 ## Running your tests
-- To run a test, run `npm run project`
+- To run a test, run `npm run alltests` or `npm run iphone` (you can add more configuration too)
 
 ## Notes
 * You can view your test results on the [BrowserStack automate dashboard](https://www.browserstack.com/automate)
